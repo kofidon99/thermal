@@ -4,20 +4,6 @@ A one-button glider. Hold to dive, let go to climb, and read the air — because
 the day is short. Single HTML file, no build step, no dependencies, no external
 network requests.
 
-## Putting this online (about 5 minutes)
-
-1. **github.com/new** → repository name `thermal`, **Public**, create.
-2. **Add file → Upload files** → drag in `index.html`, `.nojekyll` and this
-   `README.md` → **Commit changes**.
-3. **Settings → Pages** → Source **Deploy from a branch**, Branch **main**,
-   folder **/ (root)** → **Save**.
-4. Wait a minute, then open `https://YOUR-USERNAME.github.io/thermal/`.
-
-Tag each released version (`v1`, `v2`) so the exact code behind a Playables
-submission stays pinned.
-
----
-
 ## Controls
 
 | Action | Touch | Keyboard |
